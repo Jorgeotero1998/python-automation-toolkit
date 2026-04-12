@@ -2,6 +2,11 @@
 
 Un framework profesional para automatización web diseñado para ser indetectable, escalable y modular.
 
+## Video
+[Jorg.webm](https://github.com/user-attachments/assets/7652c3e0-4aa9-40a6-b07f-636d9b610a82)
+
+
+
 ## 🛠️ Características Principales
 - **Stealth Architecture**: Rotación de headers y evasión de huellas digitales (fingerprinting).
 - **Session Management**: Persistencia de cookies y estados para automatizaciones de largo plazo.
